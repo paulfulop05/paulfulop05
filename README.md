@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Paul 
+# 👋 Hi, I'm Paul 
 
 🎓 Undergraduate student at the Faculty of Mathematics and Computer-Science, mainly studying Computer-Science <br/>
 🕹️ Exploring game development and building interesting projects <br/>

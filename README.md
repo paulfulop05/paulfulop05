@@ -15,4 +15,4 @@
 >
 > [![University Account](https://img.shields.io/badge/University%20Account-181717?style=for-the-badge&logo=github)](https://github.com/PaulFulop)
 > <br/>
-> [![Portfolio](https://img.shields.io/badge/Portfolio-25ccf7?style=for-the-badge&logo=safari&logoColor=white)](https://paulfulop05.github.io/)
+> [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=safari&logoColor=white)](https://paulfulop05.github.io/)

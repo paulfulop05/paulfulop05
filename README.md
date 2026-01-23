@@ -11,4 +11,5 @@ I like coding :) <br/>
 > [![University Account](https://img.shields.io/badge/University%20Account-181717?style=for-the-badge&logo=github)](https://github.com/PaulFulop)
 > <br/>
 
+
 ![Snake animation](https://raw.githubusercontent.com/paulfulop05/paulfulop05/output/snake-dark.svg)

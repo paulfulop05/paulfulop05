@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="150" viewBox="0 0 460 150" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>
+.a{fill:#6e7681}
+.b{fill:#57606a}
+@media(prefers-color-scheme:dark){.a{fill:#8b949e}.b{fill:#c9d1d9}}
+</style>
+
+<text class="b" x="0" y="24" font-size="15" opacity="0">@paulfulop05
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/></text>
+
+<text class="a" x="0" y="58" font-size="13" opacity="0">ubb cs
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze"/></text>
+
+<text class="a" x="0" y="80" font-size="13" opacity="0">undergraduate student
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.0s" fill="freeze"/></text>
+
+<text class="a" x="0" y="102" font-size="13" opacity="0">i like coding :)
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.4s" fill="freeze"/></text>
+
+<rect class="a" x="0" y="122" width="0" height="1" opacity="0.4">
+<animate attributeName="width" values="0;220" dur="0.6s" begin="1.4s" fill="freeze"/></rect>
+</svg>
